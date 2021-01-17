@@ -13,3 +13,5 @@ t = Texttable()
 t.add_rows(lsi)
 print(t.draw())
 print("Combination lists number ", len(lsi))
+
+print("Thank you for using\nMuhammadali Hakimov!")
