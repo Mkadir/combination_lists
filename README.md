@@ -4,6 +4,8 @@ In CMD :
 
 
 pip install itertools
+
+
 pip install texttable
 python main.py
 
