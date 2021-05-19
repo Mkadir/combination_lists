@@ -3,11 +3,12 @@ use for this file u need itertools and texttable libraries:
 In CMD :
 
 
-pip install itertools
+  pip install itertools
 
 
-pip install texttable
-python main.py
+  pip install texttable
+  
+  python main.py
 
 
 
